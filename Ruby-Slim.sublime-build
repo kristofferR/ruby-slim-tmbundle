@@ -1,0 +1,4 @@
+{
+	"cmd": ["slimrb", "$file", "-o", "pretty=true"],
+	"selector": "text.slim"
+}
